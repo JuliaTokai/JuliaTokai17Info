@@ -4,11 +4,11 @@ slideOptions:
   transition: slide
   theme: white
 ---
-JuliaTokai \#16
+JuliaTokai \#17
 ===
 
 
-2023/10/01
+2023/12/10
 
 ---
 
@@ -21,9 +21,9 @@ JuliaTokai \#16
 + [Julia](https://julialang.org)
 + 技術計算を得意とする汎用プログラミング言語
 + LLVMベースJITで高速
-+ 最新版：v1.9.3（2023/08/24）
++ 最新版：v1.9.4（2023/11/14）
 + LTS：v1.6.7（2022/07/19）
-+ 次期版：v1.10.0-beta2（2023/08/17）
++ 次期版：v1.10.0-rc2（2023/12/03）
 
 ----
 
@@ -54,9 +54,7 @@ Note:
 
 ## 本日の発表
 
-+ antimon2: [Juliaってどんなことができるの？](https://speakerdeck.com/antimon2/juliatutedonnakotogadekiruno-for-juliatokai-number-16)
-+ ごまふあざらし: [Lamp.jlの紹介](https://atelierarith.github.io/Lamp.jl/)
-+ そのほか飛び入り参加あり（？）
++ (おまちしてます！)
 
 ---
 
