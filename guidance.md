@@ -54,10 +54,10 @@ Note:
 
 ## 本日の発表
 
-+ antimon2: [Julia本を書いたら技術顧問になった話](https://speakerdeck.com/antimon2/juliaben-woshu-itaraji-shu-gu-wen-ninatutahua-for-juliatokai-number-16)
-+ ごまふあざらし: [WebAssemblyCompiler.jl で推しビューワを作った話](https://qiita.com/SatoshiTerasaki/items/a303f93eda4cf1517e9a)
-+ ほりたみゅ: [julia-formatを整えた話と質問](https://hackmd.io/@hyrodium/Hk1zPiMIp#/)
-+ Kgm1500:
++ [antimon2](https://twitter.com/antimon2): [Julia本を書いたら技術顧問になった話](https://speakerdeck.com/antimon2/juliaben-woshu-itaraji-shu-gu-wen-ninatutahua-for-juliatokai-number-16)
++ [ごまふあざらし](https://twitter.com/MathSorcerer): [WebAssemblyCompiler.jl で推しビューワを作った話](https://qiita.com/SatoshiTerasaki/items/a303f93eda4cf1517e9a)
++ [ほりたみゅ](https://hyrodium.github.io/ja/): [julia-formatを整えた話と質問](https://hackmd.io/@hyrodium/Hk1zPiMIp#/)
++ [うどん](https://twitter.com/ku_taksn): Luxor.jlで動く背景を作ろう!!
 
 ---
 
