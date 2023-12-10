@@ -54,7 +54,7 @@ Note:
 
 ## 本日の発表
 
-+ (おまちしてます！)
++ [WebAssemblyCompiler.jl で推しビューワを作った話](https://qiita.com/SatoshiTerasaki/items/a303f93eda4cf1517e9a)
 
 ---
 
