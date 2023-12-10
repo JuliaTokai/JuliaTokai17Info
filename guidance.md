@@ -54,7 +54,10 @@ Note:
 
 ## 本日の発表
 
-+ [WebAssemblyCompiler.jl で推しビューワを作った話](https://qiita.com/SatoshiTerasaki/items/a303f93eda4cf1517e9a)
++ antimon2: Julia本を書いたら技術顧問になった話
++ ごまふあざらし: [WebAssemblyCompiler.jl で推しビューワを作った話](https://qiita.com/SatoshiTerasaki/items/a303f93eda4cf1517e9a)
++ ほりたみゅ: [julia-formatを整えた話と質問](https://hackmd.io/@hyrodium/Hk1zPiMIp#/)
++ Kgm1500:
 
 ---
 
